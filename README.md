@@ -1,2 +1,1 @@
-# hmessage
-??
+prin(hello)
